@@ -1,0 +1,11 @@
+streamlit
+langchain_core
+langchain_community
+langchain_ollama
+langchain_huggingface
+pypdf
+PyPDF2
+langchain_ollama
+faiss_cpu
+sentence-transformers
+python-dotenv
